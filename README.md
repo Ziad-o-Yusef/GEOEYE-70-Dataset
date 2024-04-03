@@ -119,7 +119,7 @@ ________________________________________________________________________________
 
 ## *GEOEYE-70* Dataset Access : 
 ### * To enjoy viewing parts of this data without having to download it, you can follow this notebook on Google Colab to show the complete data : [*GEOEYE-70* Dataset Representation](https://colab.research.google.com/drive/1iXmoPcRdaULZa4dfGnwAgbtR6Wxd8hNu?usp=sharing)
-### * You can download the entire data through the cloud - Google Drive (with a size equivalent to 1.4 GB) through the link: [*GEOEYE-70* Dataset Download]
+### * You can download the entire data through the cloud - Google Drive (with a size equivalent to 1.4 GB) through the link: [*GEOEYE-70* Dataset Download](https://drive.google.com/drive/folders/1DNBZPY7KrScw5e6XQcAOXhE3O7a4tBLi?usp=sharing)
 ### * You can also fetch data through Kaggle API and work on it on Colab or Kaggle by accessing data on Kaggle :  [*GEOEYE-70* Kaggle way]
 _____________________________________________________________________________________________________________________________________________
 ## *GEOEYE-70* Contributors : 
