@@ -130,12 +130,5 @@ ________________________________________________________________________________
 
 If you use this project in your research, please cite it as follows:
 
-[Nagy], [Shady] & [Yousef], [Zeyad O.] ([2024]). [GEOEYE-70 Dataset]. [V1.0]. Retrieved from https://github.com/Ziad-o-Yusef/GEOEYE-70-Dataset
-
-**Example:**
-
 Nagy, Shady & Yousef, Zeyad O. (2024). GEOEYE-70 Dataset. v1.0. Retrieved from https://github.com/Ziad-o-Yusef/GEOEYE-70-Dataset
-
-**License**
-This README file is licensed under the MIT License.
 
