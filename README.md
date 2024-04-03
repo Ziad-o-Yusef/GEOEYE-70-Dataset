@@ -118,9 +118,9 @@ The dataset includes the following classes:
 ___________________________________________________________________________________________________________________________________________
 
 ## *GEOEYE-70* Dataset Access : 
-* To enjoy viewing parts of this data without having to download it, you can follow this notebook on Google Colab to show the complete data : *GEOEYE-70* Dataset Representation
-* You can download the entire data through the cloud - Google Drive (with a size equivalent to 1.4 GB) through the link: *GEOEYE-70* Dataset Download
-* You can also fetch data through Kaggle API and work on it on Colab or Kaggle by accessing data on Kaggle :  *GEOEYE-70* Kaggle way
+### * To enjoy viewing parts of this data without having to download it, you can follow this notebook on Google Colab to show the complete data : [*GEOEYE-70* Dataset Representation]
+### * You can download the entire data through the cloud - Google Drive (with a size equivalent to 1.4 GB) through the link: [*GEOEYE-70* Dataset Download]
+### * You can also fetch data through Kaggle API and work on it on Colab or Kaggle by accessing data on Kaggle :  [*GEOEYE-70* Kaggle way]
 _____________________________________________________________________________________________________________________________________________
 ## *GEOEYE-70* Contributors : 
 * Shady Nagy :
