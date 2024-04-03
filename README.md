@@ -34,4 +34,88 @@
 **License:**
 
 This README file is licensed under the MIT License.
+
+
+## *GEOEYE-70* Dataset details : 
+**Overview**
+
+The GEO dataset is a collection of high-resolution satellite and aerial imagery specifically designed for training and evaluating machine learning models for land use and land cover classification. It encompasses a diverse range of land cover types, including natural landscapes, man-made structures, and agricultural fields.
+
+**Data Composition**
+
+The GEO dataset consists of **69 classes**, each containing **500 images** sized **(256 x 256 x 3)** pixels (height, width, channels). This translates to a total of **34,500 images**.
+
+**Classes**
+
+The dataset includes the following classes:
+
+* Agricultural (1)
+* Airplane (2)
+* Airport (3)
+* AnnualCrop (4)
+* Bareland (5)
+* Baseball Diamond (6)
+* Basketball Court (7)
+* Beach (8)
+* Bridge (9)
+* Buildings (10)
+* Center (11)
+* Chaparral (12)
+* Cloud (13)
+* Commercial Area (14)
+* Dense Residential Area (15)
+* Desert (16)
+* Eroded Farmland (17)
+* Farmland (18)
+* Floating Ice (19)
+* Forest (20)
+* Freeway (21)
+* Golf Course (22)
+* Ground Track Field (23)
+* Harbor & Port (24)
+* Herbaceous Vegetation (25)
+* Highway (26)
+* Icebergs (27)
+* Industrial Area (28)
+* Industrial Buildings (29)
+* Intersection (30)
+* Isbergs & Glacier (31)
+* Island (32)
+* Lake (33)
+* Meadow (34)
+* Medium Residential Area (35)
+* Mobile Home Park (36)
+* Mountain (37)
+* Overpass (38)
+* Park (39)
+* Parking Lot (40)
+* Parkway (41)
+* Pasture (42)
+* Permanent Crop (43)
+* Pond (44)
+* Railway (45)
+* Railway Station (46)
+* Resort (47)
+* River (48)
+* Roundabout (49)
+* Runway (50)
+* School (51)
+* Sea1_Old_Ice (52)
+* Sea2_Frist_Year_Ice (53)
+* Sea3_Young_Ice (54)
+* SeaLake (55)
+* Shipping Yard (56)
+* Snowberg (57)
+* Sparse Residential Area (58)
+* Square (59)
+* Stadium (60)
+* Storage Tank (61)
+* Swimming Pool (62)
+* Tennis Court (63)
+* Terrace (64)
+* Transmission Tower (65)
+* Vegetable Greenhouse (66)
+* Water Bodies (67)
+* Wetland (68)
+* Wind Turbine (69)
 		
