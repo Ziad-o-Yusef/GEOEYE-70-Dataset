@@ -34,11 +34,11 @@ ________________________________________________________________________________
 ## *GEOEYE-70* Dataset details : 
 **Overview**
 
-The GEO dataset is a collection of high-resolution satellite and aerial imagery specifically designed for training and evaluating machine learning models for land use and land cover classification. It encompasses a diverse range of land cover types, including natural landscapes, man-made structures, and agricultural fields.
+The GEOEYE-70 dataset is a collection of high-resolution satellite and aerial imagery specifically designed for training and evaluating machine learning models for land use and land cover classification. It encompasses a diverse range of land cover types, including natural landscapes, man-made structures, and agricultural fields.
 
 **Data Composition**
 
-The GEO dataset consists of **69 classes**, each containing **500 images** sized **(256 x 256 x 3)** pixels (height, width, channels). This translates to a total of **34,500 images**.
+The GEOEYE-70 dataset consists of **69 classes**, each containing **500 images** sized **(256 x 256 x 3)** pixels (height, width, channels). This translates to a total of **34,500 images**.
 
 **Classes**
 
