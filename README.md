@@ -123,8 +123,8 @@ ________________________________________________________________________________
 ### - You can also fetch data through Kaggle API and work on it on Colab or Kaggle by accessing data on Kaggle :  [*GEOEYE-70* Kaggle way](https://www.kaggle.com/datasets/zeadomar/geoeye-70-earth-observation/data)
 _____________________________________________________________________________________________________________________________________________
 ## *GEOEYE-70* Contributors : 
-* Shady Nagy :
-* Zeyad O. Yousef :
+* Shady Nagy : (Google Scholar)[https://scholar.google.com/citations?hl=en&user=mH7CmFYAAAAJ]
+* Zeyad O. Yousef : (Google Scholar)[https://scholar.google.com/citations?hl=en&user=mH7CmFYAAAAJ]
 _____________________________________________________________________________________________________________________________________________
 ## *GEOEYE-70* Citation : 
 
